@@ -1,2 +1,1 @@
-I make this code to control the car using web server and also add button interface to control the car any direction. However, it also has lights and horn. 
-If you have any issue feel free me to ask me i am trying to resolve your problem  
+I have developed a code that allows for car control via a web server. The code includes a button interface for moving the car in any direction. Additionally, the system has features for controlling lights and horns. If you experience any issues, please don't hesitate to ask for help. I am committed to resolving any challenges you may face.
